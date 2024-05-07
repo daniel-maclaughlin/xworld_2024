@@ -8,6 +8,11 @@
 [Github ManagedAppConfigLib](https://github.com/jamf/ManagedAppConfigLib)<br/>
 
 
+### Apple Developer Docs
+[Install Command](https://developer.apple.com/documentation/devicemanagement/installapplicationcommand/command?changes=latest_minor&language=objc)<br/>
+[Settings Command](https://developer.apple.com/documentation/devicemanagement/settingscommand/command/settings/applicationconfiguration?changes=latest_minor&language=objc)<br/>
+
+
 ### Other Resources
 [Microsoft Outlook App Config](https://learn.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/outlook-for-ios-and-android/outlook-for-ios-and-android-configuration-with-microsoft-intune#configuration-keys)<br/>
 
