@@ -6,6 +6,7 @@
 [Jamf Assessment](https://marketplace.jamf.com/details/jamf-assessment)<br/>
 [Managed View](https://marketplace.jamf.com/details/managed-view)<br/>
 [Github ManagedAppConfigLib](https://github.com/jamf/ManagedAppConfigLib)<br/>
+[App Config Spec Creator](https://beta.appconfig.jamfresearch.com/spec-creator)<br/>
 
 
 ### Apple Developer Docs
