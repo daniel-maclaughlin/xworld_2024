@@ -1,5 +1,8 @@
 # XWorld 2024
 
+### Marco Eidinger Blog
+[Everything you need to know about App Config](https://blog.eidinger.info/all-you-need-to-know-about-managed-app-configuration)<br/>
+
 ### Jamf Links
 [Jamf Developer Guide](https://developer.jamf.com/developer-guide/docs/managed-app-configuration)<br/>
 [JNUC 2023 Managed App Config](https://www.youtube.com/watch?v=RuE72q7ShvY)<br/>
